@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <crf_id>6105E0DA-60C6-479E-B8C7-62A4C1C25D24</crf_id>
+  <optionLists>
+    <og_4FA94FE8-28A0-4A5E-8514-138AC12E6FB2 form_sync_id="865733b1b913820383a9f16c844bb5ea6dc7a9b0">
+      <option_group_id>4FA94FE8-28A0-4A5E-8514-138AC12E6FB2</option_group_id>
+      <option_group_name>Sex</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_6F4EB50D-58C0-45CA-A654-2DC42FBD349C form_sync_id="ab269b8341e66bb930d02774b9dd87e55aac8752">
+          <option_id>6F4EB50D-58C0-45CA-A654-2DC42FBD349C</option_id>
+          <option_group_id>4FA94FE8-28A0-4A5E-8514-138AC12E6FB2</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Male</option_name>
+          <option_value>1</option_value>
+        </op_6F4EB50D-58C0-45CA-A654-2DC42FBD349C>
+        <op_7470C86D-804A-45DD-AF0E-9E245D3AA658 form_sync_id="94626886667d088b690cf64d2d2f11d898dfa7e2">
+          <option_id>7470C86D-804A-45DD-AF0E-9E245D3AA658</option_id>
+          <option_group_id>4FA94FE8-28A0-4A5E-8514-138AC12E6FB2</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>Female</option_name>
+          <option_value>2</option_value>
+        </op_7470C86D-804A-45DD-AF0E-9E245D3AA658>
+        <op_2B8CF740-58D4-450C-90C2-190A14761177 form_sync_id="ad40817326b315af96c04d5bea3b422868b7ce3d">
+          <option_id>2B8CF740-58D4-450C-90C2-190A14761177</option_id>
+          <option_group_id>4FA94FE8-28A0-4A5E-8514-138AC12E6FB2</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>Not specified</option_name>
+          <option_value>3</option_value>
+        </op_2B8CF740-58D4-450C-90C2-190A14761177>
+      </options>
+    </og_4FA94FE8-28A0-4A5E-8514-138AC12E6FB2>
+    <og_18F80FD9-4FEB-4215-87AA-FDB956778DF1 form_sync_id="5540bdf5efa22c34ce3c942f256a592cb33d25fa">
+      <option_group_id>18F80FD9-4FEB-4215-87AA-FDB956778DF1</option_group_id>
+      <option_group_name>yes/no/unknown</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_0D4266ED-9E45-4CF8-ACF6-CA60D64F2E25 form_sync_id="808d27824b4ad7d897789588517b52410ecf595c">
+          <option_id>0D4266ED-9E45-4CF8-ACF6-CA60D64F2E25</option_id>
+          <option_group_id>18F80FD9-4FEB-4215-87AA-FDB956778DF1</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Yes</option_name>
+          <option_value>0</option_value>
+        </op_0D4266ED-9E45-4CF8-ACF6-CA60D64F2E25>
+        <op_B2C05542-5699-48B6-9546-995389F4A963 form_sync_id="987a7c5a3f41ab69cecd6dc0e049475227427212">
+          <option_id>B2C05542-5699-48B6-9546-995389F4A963</option_id>
+          <option_group_id>18F80FD9-4FEB-4215-87AA-FDB956778DF1</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>No</option_name>
+          <option_value>1</option_value>
+        </op_B2C05542-5699-48B6-9546-995389F4A963>
+        <op_14D29609-6CC8-458E-8058-7817AE245C89 form_sync_id="705ddde3059407e914c0af4d9141ec39a170dc3e">
+          <option_id>14D29609-6CC8-458E-8058-7817AE245C89</option_id>
+          <option_group_id>18F80FD9-4FEB-4215-87AA-FDB956778DF1</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>Unknown</option_name>
+          <option_value>2</option_value>
+        </op_14D29609-6CC8-458E-8058-7817AE245C89>
+      </options>
+    </og_18F80FD9-4FEB-4215-87AA-FDB956778DF1>
+    <og_EFAAD918-6DC3-4EC1-89DA-7B8966C21609 form_sync_id="1b6f10b8c21147b5da16bd68e0ecf1c91fbde0e8">
+      <option_group_id>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</option_group_id>
+      <option_group_name>Races</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_D1697641-CFDB-4C59-B2AB-93C5B17C1F79 form_sync_id="6f3465cc8cb46debf02720770064daed9cdf1caf">
+          <option_id>D1697641-CFDB-4C59-B2AB-93C5B17C1F79</option_id>
+          <option_group_id>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Asian</option_name>
+          <option_value>0</option_value>
+        </op_D1697641-CFDB-4C59-B2AB-93C5B17C1F79>
+        <op_28182EC6-5955-4FA8-B247-D948C50BBD44 form_sync_id="d66215e4dcd793918cd0aedca0c5440b3cf6d853">
+          <option_id>28182EC6-5955-4FA8-B247-D948C50BBD44</option_id>
+          <option_group_id>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>Black</option_name>
+          <option_value>1</option_value>
+        </op_28182EC6-5955-4FA8-B247-D948C50BBD44>
+        <op_D343CD83-C37D-46F6-B35D-1A6A731F35D6 form_sync_id="ad292b62f85aa4b25d16d5374830ef1faeb2f3d8">
+          <option_id>D343CD83-C37D-46F6-B35D-1A6A731F35D6</option_id>
+          <option_group_id>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>White</option_name>
+          <option_value>3</option_value>
+        </op_D343CD83-C37D-46F6-B35D-1A6A731F35D6>
+        <op_165073B3-E59B-42BF-8C8B-AAE8A6619D30 form_sync_id="4caf77c3b2c5ddb5ffb559a7ddece40b889f5805">
+          <option_id>165073B3-E59B-42BF-8C8B-AAE8A6619D30</option_id>
+          <option_group_id>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</option_group_id>
+          <option_group_order>3</option_group_order>
+          <option_name>Mixed</option_name>
+          <option_value>4</option_value>
+        </op_165073B3-E59B-42BF-8C8B-AAE8A6619D30>
+        <op_DFAA7CE2-8054-4773-9B4B-1F7C17E3FE87 form_sync_id="630bc23737a7f74957283de2c796754a2ee7929d">
+          <option_id>DFAA7CE2-8054-4773-9B4B-1F7C17E3FE87</option_id>
+          <option_group_id>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</option_group_id>
+          <option_group_order>4</option_group_order>
+          <option_name>Arab</option_name>
+          <option_value>5</option_value>
+        </op_DFAA7CE2-8054-4773-9B4B-1F7C17E3FE87>
+        <op_3A903C8B-F53B-45D8-BC70-05363A1FEFC2 form_sync_id="f91e3fffea39e35077ef5bfccbb6fc883c9ca4d5">
+          <option_id>3A903C8B-F53B-45D8-BC70-05363A1FEFC2</option_id>
+          <option_group_id>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</option_group_id>
+          <option_group_order>5</option_group_order>
+          <option_name>Latino</option_name>
+          <option_value>6</option_value>
+        </op_3A903C8B-F53B-45D8-BC70-05363A1FEFC2>
+        <op_F8FCBC37-0827-44C4-8EE6-2636B4B99AEA form_sync_id="678aa1a3ccd6b0dcb7c3f084688f6eecfe86fa98">
+          <option_id>F8FCBC37-0827-44C4-8EE6-2636B4B99AEA</option_id>
+          <option_group_id>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</option_group_id>
+          <option_group_order>6</option_group_order>
+          <option_name>Other</option_name>
+          <option_value>7</option_value>
+        </op_F8FCBC37-0827-44C4-8EE6-2636B4B99AEA>
+        <op_651BBD00-4516-4664-B622-96362163FF01 form_sync_id="ea98decd47be9e3d27611f720dc057561d877f49">
+          <option_id>651BBD00-4516-4664-B622-96362163FF01</option_id>
+          <option_group_id>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</option_group_id>
+          <option_group_order>7</option_group_order>
+          <option_name>Unknown</option_name>
+          <option_value>8</option_value>
+        </op_651BBD00-4516-4664-B622-96362163FF01>
+      </options>
+    </og_EFAAD918-6DC3-4EC1-89DA-7B8966C21609>
+    <og_C924651C-19F9-4877-A70C-72C0FDE6E8FE form_sync_id="7a2824e97c0369240a4cf9de21193fff2db8516d">
+      <option_group_id>C924651C-19F9-4877-A70C-72C0FDE6E8FE</option_group_id>
+      <option_group_name>Medical cares</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_0215049E-7F79-4957-BC4B-CAC789AC99F7 form_sync_id="fce0e98fd261ec7ca37a695ffcbc20489824bc9a">
+          <option_id>0215049E-7F79-4957-BC4B-CAC789AC99F7</option_id>
+          <option_group_id>C924651C-19F9-4877-A70C-72C0FDE6E8FE</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Admitted to the hospital</option_name>
+          <option_value>0</option_value>
+        </op_0215049E-7F79-4957-BC4B-CAC789AC99F7>
+        <op_C64F0E4C-10AC-48B4-83B0-B3786A4F2BF6 form_sync_id="4b75dccddbc18fd8ad6ffdbb47e5096f880393c8">
+          <option_id>C64F0E4C-10AC-48B4-83B0-B3786A4F2BF6</option_id>
+          <option_group_id>C924651C-19F9-4877-A70C-72C0FDE6E8FE</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>Self-care/Over-thecounter</option_name>
+          <option_value>1</option_value>
+        </op_C64F0E4C-10AC-48B4-83B0-B3786A4F2BF6>
+        <op_90118D58-8FA6-4517-BB40-C002992FEDB5 form_sync_id="04c04670349eb19648d2b3f769816d1e061a1489">
+          <option_id>90118D58-8FA6-4517-BB40-C002992FEDB5</option_id>
+          <option_group_id>C924651C-19F9-4877-A70C-72C0FDE6E8FE</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>Treated at home/Telemedicine</option_name>
+          <option_value>2</option_value>
+        </op_90118D58-8FA6-4517-BB40-C002992FEDB5>
+        <op_6853F6EE-F6A3-46CC-8E6C-1048983CDC29 form_sync_id="5694c5a8bdb343ab189321fa31d0d1277b708508">
+          <option_id>6853F6EE-F6A3-46CC-8E6C-1048983CDC29</option_id>
+          <option_group_id>C924651C-19F9-4877-A70C-72C0FDE6E8FE</option_group_id>
+          <option_group_order>3</option_group_order>
+          <option_name>Outpatient</option_name>
+          <option_value>3</option_value>
+        </op_6853F6EE-F6A3-46CC-8E6C-1048983CDC29>
+        <op_6B5BC46C-1DE0-488A-BAF1-6C1B56142817 form_sync_id="9a3187c44c60023615b6b17e478c54c3b846d401">
+          <option_id>6B5BC46C-1DE0-488A-BAF1-6C1B56142817</option_id>
+          <option_group_id>C924651C-19F9-4877-A70C-72C0FDE6E8FE</option_group_id>
+          <option_group_order>4</option_group_order>
+          <option_name>Unknown</option_name>
+          <option_value>4</option_value>
+        </op_6B5BC46C-1DE0-488A-BAF1-6C1B56142817>
+      </options>
+    </og_C924651C-19F9-4877-A70C-72C0FDE6E8FE>
+    <og_B9BF5981-0463-4C6A-A4EB-98ECBB2BED2B form_sync_id="0b990b4091b55231aab99964ae7996bc7ec92868">
+      <option_group_id>B9BF5981-0463-4C6A-A4EB-98ECBB2BED2B</option_group_id>
+      <option_group_name>roles</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_43E3B7EC-E93F-4C79-A46E-498DAD4BDF5F form_sync_id="aca42a42d05ec8a054b1e428cd3aa9313fe3536a">
+          <option_id>43E3B7EC-E93F-4C79-A46E-498DAD4BDF5F</option_id>
+          <option_group_id>B9BF5981-0463-4C6A-A4EB-98ECBB2BED2B</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>patient</option_name>
+          <option_value>0</option_value>
+        </op_43E3B7EC-E93F-4C79-A46E-498DAD4BDF5F>
+        <op_D3BE4893-3C10-45EE-A590-F22AE0C27817 form_sync_id="9e31db58d18d5fba31375433d71fade3836f47c7">
+          <option_id>D3BE4893-3C10-45EE-A590-F22AE0C27817</option_id>
+          <option_group_id>B9BF5981-0463-4C6A-A4EB-98ECBB2BED2B</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>caregiver(in case of children)</option_name>
+          <option_value>1</option_value>
+        </op_D3BE4893-3C10-45EE-A590-F22AE0C27817>
+        <op_CEC35649-F91B-403D-A098-0FDA486DFDBB form_sync_id="b097079db1582b64831af9fbc12503fa9eac6152">
+          <option_id>CEC35649-F91B-403D-A098-0FDA486DFDBB</option_id>
+          <option_group_id>B9BF5981-0463-4C6A-A4EB-98ECBB2BED2B</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>health care worker</option_name>
+          <option_value>2</option_value>
+        </op_CEC35649-F91B-403D-A098-0FDA486DFDBB>
+      </options>
+    </og_B9BF5981-0463-4C6A-A4EB-98ECBB2BED2B>
+    <og_1662B8E3-B7A1-4428-8A34-46FC7F85486A>
+      <option_group_id>1662B8E3-B7A1-4428-8A34-46FC7F85486A</option_group_id>
+      <option_group_name>better/woirse/same</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_D40BF2A5-24BB-44E9-A580-E1289552A9D7 form_sync_id="04e86a63a2fd113b7fabc4f81f0d4b41cefdde59">
+          <option_id>D40BF2A5-24BB-44E9-A580-E1289552A9D7</option_id>
+          <option_group_id>1662B8E3-B7A1-4428-8A34-46FC7F85486A</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Better</option_name>
+          <option_value>0</option_value>
+        </op_D40BF2A5-24BB-44E9-A580-E1289552A9D7>
+        <op_5B35D5C4-1E5C-4F29-9F08-15E1DCECB1C4 form_sync_id="a9f05869a2ce33ee6ab263f4eb7e8fcdcc620092">
+          <option_id>5B35D5C4-1E5C-4F29-9F08-15E1DCECB1C4</option_id>
+          <option_group_id>1662B8E3-B7A1-4428-8A34-46FC7F85486A</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>Wrose</option_name>
+          <option_value>1</option_value>
+        </op_5B35D5C4-1E5C-4F29-9F08-15E1DCECB1C4>
+        <op_12725754-A5D8-4EFF-9086-7A334EBA286A form_sync_id="6b06b7e6d356b1bddc648c4fe745c056e75553cf">
+          <option_id>12725754-A5D8-4EFF-9086-7A334EBA286A</option_id>
+          <option_group_id>1662B8E3-B7A1-4428-8A34-46FC7F85486A</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>Same</option_name>
+          <option_value>2</option_value>
+        </op_12725754-A5D8-4EFF-9086-7A334EBA286A>
+      </options>
+    </og_1662B8E3-B7A1-4428-8A34-46FC7F85486A>
+  </optionLists>
+  <version>3</version>
+  <metadata>1</metadata>
+  <date_created>2021-07-28 05:43:14</date_created>
+  <created_by>Zihan Wang (z.wang-9@student.utwente.nl)</created_by>
+  <lookupTable/>
+  <study name="Study" guid="study">
+    <phases>
+      <ph_8D9D3BF2-647B-4BBF-BCD4-FF430B01C1C7 name="Module1" guid="8D9D3BF2-647B-4BBF-BCD4-FF430B01C1C7" duration="" order="1" rejected="0" stepCount="5" form_sync_id="fe77c82bb2a42efeec9303600c8e7f6df56b6faf">
+        <steps>
+          <st_DA160344-01E0-4DE3-A236-108DCADF8F0C study_phase_id="8D9D3BF2-647B-4BBF-BCD4-FF430B01C1C7" step_id="DA160344-01E0-4DE3-A236-108DCADF8F0C" step_name="Acute episode of COVID-19 information" step_desc="" step_number="1" step_status="active" name="Acute episode of COVID-19 information" guid="DA160344-01E0-4DE3-A236-108DCADF8F0C" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields>
+              <fi_669CE748-FFA0-4684-B7FB-A41289F0555B form_sync_id="4065880509750c82cc9611bf5edf9a1db6fda585">
+                <parent_id>DA160344-01E0-4DE3-A236-108DCADF8F0C</parent_id>
+                <field_id>669CE748-FFA0-4684-B7FB-A41289F0555B</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Does the patient have a WHO Rapid Core CRF Participant ID? If Yes, report PARTICIPANT ID of CORE CRF</field_label>
+                <field_variable_name>PID</field_variable_name>
+                <field_type>string</field_type>
+                <field_type_description>Textfield</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Does the patient have a WHO Rapid Core CRF Participant ID? If Yes, report PARTICIPANT ID of CORE CRF</field_label_parsed>
+              </fi_669CE748-FFA0-4684-B7FB-A41289F0555B>
+            </fields>
+          </st_DA160344-01E0-4DE3-A236-108DCADF8F0C>
+          <st_A3829374-B3CC-4598-9209-2DEE8D58CDA9 study_phase_id="8D9D3BF2-647B-4BBF-BCD4-FF430B01C1C7" step_id="A3829374-B3CC-4598-9209-2DEE8D58CDA9" step_name="Demographics" step_desc="" step_number="2" step_status="active" name="Demographics" guid="A3829374-B3CC-4598-9209-2DEE8D58CDA9" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields>
+              <fi_393D4522-B7B5-454B-BE66-43EBCF57571C form_sync_id="1c5d6fb5510037bc65b902a8b6731dfecde2bfdf">
+                <parent_id>A3829374-B3CC-4598-9209-2DEE8D58CDA9</parent_id>
+                <field_id>393D4522-B7B5-454B-BE66-43EBCF57571C</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Sex at Birth</field_label>
+                <field_variable_name>sex</field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>4FA94FE8-28A0-4A5E-8514-138AC12E6FB2</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Sex at Birth</field_label_parsed>
+              </fi_393D4522-B7B5-454B-BE66-43EBCF57571C>
+              <fi_FA96AD88-718F-43F0-8381-D2DBC59C16BE form_sync_id="7e85836522290961bd931b3d96b36ec2130c4a41">
+                <parent_id>A3829374-B3CC-4598-9209-2DEE8D58CDA9</parent_id>
+                <field_id>FA96AD88-718F-43F0-8381-D2DBC59C16BE</field_id>
+                <field_number>2</field_number>
+                <field_number_display>2</field_number_display>
+                <field_label>Age</field_label>
+                <field_variable_name>age</field_variable_name>
+                <field_type>numeric</field_type>
+                <field_type_description>Numeric field</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min>0.00</field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units>years</field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Age</field_label_parsed>
+              </fi_FA96AD88-718F-43F0-8381-D2DBC59C16BE>
+              <fi_A0CAC295-C68F-4D3B-83C8-9B1AE4664E57 form_sync_id="b7eee04391a1bb09548f5cc2eba3de63d3da5600">
+                <parent_id>A3829374-B3CC-4598-9209-2DEE8D58CDA9</parent_id>
+                <field_id>A0CAC295-C68F-4D3B-83C8-9B1AE4664E57</field_id>
+                <field_number>3</field_number>
+                <field_number_display>3</field_number_display>
+                <field_label>Height</field_label>
+                <field_variable_name>height</field_variable_name>
+                <field_type>numeric</field_type>
+                <field_type_description>Numeric field</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min>0.00</field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units>cm</field_units>
+                <field_info>ggggggggggggggggggg</field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Height</field_label_parsed>
+              </fi_A0CAC295-C68F-4D3B-83C8-9B1AE4664E57>
+              <fi_FC47C5A7-DB1D-42F4-82D9-C3870607808F form_sync_id="2e5dc38aa69ec85c9c12dc416c504a10662f0541">
+                <parent_id>A3829374-B3CC-4598-9209-2DEE8D58CDA9</parent_id>
+                <field_id>FC47C5A7-DB1D-42F4-82D9-C3870607808F</field_id>
+                <field_number>4</field_number>
+                <field_number_display>4</field_number_display>
+                <field_label>Weight</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>numeric</field_type>
+                <field_type_description>Numeric field</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min>1.00</field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units>kg</field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Weight</field_label_parsed>
+              </fi_FC47C5A7-DB1D-42F4-82D9-C3870607808F>
+              <fi_8EB2FBDD-C830-4ED5-AF20-2369997910EB form_sync_id="ff0dd941cb0f6c42cac3fbefe826d95453ff3958">
+                <parent_id>A3829374-B3CC-4598-9209-2DEE8D58CDA9</parent_id>
+                <field_id>8EB2FBDD-C830-4ED5-AF20-2369997910EB</field_id>
+                <field_number>5</field_number>
+                <field_number_display>5</field_number_display>
+                <field_label>Was the participant a long-term care facility resident prior to initial COVID-19 diagnosis</field_label>
+                <field_variable_name>longterm</field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>18F80FD9-4FEB-4215-87AA-FDB956778DF1</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Was the participant a long-term care facility resident prior to initial COVID-19 diagnosis</field_label_parsed>
+              </fi_8EB2FBDD-C830-4ED5-AF20-2369997910EB>
+              <fi_83DD9C0B-2213-47FA-B1A0-5ECB183F8AA9 form_sync_id="4e28498cc1326ec7bf0eec159a9ceb878e96937d">
+                <parent_id>A3829374-B3CC-4598-9209-2DEE8D58CDA9</parent_id>
+                <field_id>83DD9C0B-2213-47FA-B1A0-5ECB183F8AA9</field_id>
+                <field_number>6</field_number>
+                <field_number_display>6</field_number_display>
+                <field_label>Ethnicity background</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>EFAAD918-6DC3-4EC1-89DA-7B8966C21609</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Ethnicity background</field_label_parsed>
+              </fi_83DD9C0B-2213-47FA-B1A0-5ECB183F8AA9>
+            </fields>
+          </st_A3829374-B3CC-4598-9209-2DEE8D58CDA9>
+          <st_F2C5C20E-53D6-4879-92F4-4DE44529C5C1 study_phase_id="8D9D3BF2-647B-4BBF-BCD4-FF430B01C1C7" step_id="F2C5C20E-53D6-4879-92F4-4DE44529C5C1" step_name="Pre-existing conditions in the year prior to your acute illness of COVID-19" step_desc="" step_number="3" step_status="active" name="Pre-existing conditions in the year prior to your acute illness of COVID-19" guid="F2C5C20E-53D6-4879-92F4-4DE44529C5C1" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields>
+              <fi_85FB1895-8FB7-4B4D-A20E-C04F85AD3744 form_sync_id="80cee98b906a7cc8f4fe465cb8c1458606c7aa0d">
+                <parent_id>F2C5C20E-53D6-4879-92F4-4DE44529C5C1</parent_id>
+                <field_id>85FB1895-8FB7-4B4D-A20E-C04F85AD3744</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>In the year prior to your acute illness of COVID-19, has the participant been diagnosed with any of the following conditions?</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>remark</field_type>
+                <field_type_description>Remark</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>In the year prior to your acute illness of COVID-19, has the participant been diagnosed with any of the following conditions?</field_label_parsed>
+              </fi_85FB1895-8FB7-4B4D-A20E-C04F85AD3744>
+              <fi_9B708A72-302C-4E74-BDD1-9A9FCA003525 form_sync_id="0f380d5288b6e060ddd2f2e27596d43944c66dde">
+                <parent_id>F2C5C20E-53D6-4879-92F4-4DE44529C5C1</parent_id>
+                <field_id>9B708A72-302C-4E74-BDD1-9A9FCA003525</field_id>
+                <field_number>2</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Asplenia</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>18F80FD9-4FEB-4215-87AA-FDB956778DF1</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Asplenia</field_label_parsed>
+              </fi_9B708A72-302C-4E74-BDD1-9A9FCA003525>
+              <fi_68B6300F-78E8-45C6-93CA-0A48B05C5454 form_sync_id="678e62aebb183d3df8ab0bb04f89b5baac95b876">
+                <parent_id>F2C5C20E-53D6-4879-92F4-4DE44529C5C1</parent_id>
+                <field_id>68B6300F-78E8-45C6-93CA-0A48B05C5454</field_id>
+                <field_number>3</field_number>
+                <field_number_display>2</field_number_display>
+                <field_label>Cancer</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>18F80FD9-4FEB-4215-87AA-FDB956778DF1</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Cancer</field_label_parsed>
+              </fi_68B6300F-78E8-45C6-93CA-0A48B05C5454>
+              <fi_20135A77-3745-4458-979B-3F10EF6D3FDC form_sync_id="ba02d197f72515822ab481429a166e331150b1dd">
+                <parent_id>F2C5C20E-53D6-4879-92F4-4DE44529C5C1</parent_id>
+                <field_id>20135A77-3745-4458-979B-3F10EF6D3FDC</field_id>
+                <field_number>4</field_number>
+                <field_number_display>3</field_number_display>
+                <field_label>Chronic Heart disease</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>18F80FD9-4FEB-4215-87AA-FDB956778DF1</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Chronic Heart disease</field_label_parsed>
+              </fi_20135A77-3745-4458-979B-3F10EF6D3FDC>
+            </fields>
+          </st_F2C5C20E-53D6-4879-92F4-4DE44529C5C1>
+          <st_E0C3931B-2065-4AD4-9BB5-9D0478F4219F study_phase_id="8D9D3BF2-647B-4BBF-BCD4-FF430B01C1C7" step_id="E0C3931B-2065-4AD4-9BB5-9D0478F4219F" step_name="Diagnosis of acute illness of COVID-19" step_desc="" step_number="4" step_status="active" name="Diagnosis of acute illness of COVID-19" guid="E0C3931B-2065-4AD4-9BB5-9D0478F4219F" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields>
+              <fi_583FE11B-2EB3-4AFD-8065-D33AA29C0871 form_sync_id="66e2f6b2a4eb7a9f790f6db742a8bbe9f2e61125">
+                <parent_id>E0C3931B-2065-4AD4-9BB5-9D0478F4219F</parent_id>
+                <field_id>583FE11B-2EB3-4AFD-8065-D33AA29C0871</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Date of onset of symptoms of acute COVID-19</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info>DD/MM/YYYY</field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Date of onset of symptoms of acute COVID-19</field_label_parsed>
+              </fi_583FE11B-2EB3-4AFD-8065-D33AA29C0871>
+              <fi_13F778DF-C1DD-42D1-84E4-85497C43E9A3 form_sync_id="1e22dcc33e5cefb77ab416bec471064eccab9683">
+                <parent_id>E0C3931B-2065-4AD4-9BB5-9D0478F4219F</parent_id>
+                <field_id>13F778DF-C1DD-42D1-84E4-85497C43E9A3</field_id>
+                <field_number>2</field_number>
+                <field_number_display>2</field_number_display>
+                <field_label>Did the participant receive a diagnosis of COVID-19 by a health care worker during the acute illness?</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>18F80FD9-4FEB-4215-87AA-FDB956778DF1</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Did the participant receive a diagnosis of COVID-19 by a health care worker during the acute illness?</field_label_parsed>
+              </fi_13F778DF-C1DD-42D1-84E4-85497C43E9A3>
+              <fi_374CFFF2-F02F-454F-BC54-5C5D2815D9CA form_sync_id="4e1ca07f4bc6bff1ed9775d96cc2cea6fd9f0a44">
+                <parent_id>E0C3931B-2065-4AD4-9BB5-9D0478F4219F</parent_id>
+                <field_id>374CFFF2-F02F-454F-BC54-5C5D2815D9CA</field_id>
+                <field_number>3</field_number>
+                <field_number_display>3</field_number_display>
+                <field_label>Did the participant have a diagnostic test?</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>18F80FD9-4FEB-4215-87AA-FDB956778DF1</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Did the participant have a diagnostic test?</field_label_parsed>
+              </fi_374CFFF2-F02F-454F-BC54-5C5D2815D9CA>
+              <fi_6B58D794-2D99-4903-A9A4-6DC94BAAD2A3 form_sync_id="9433cb246508cf7849e519c8997be6be04dca87e">
+                <parent_id>E0C3931B-2065-4AD4-9BB5-9D0478F4219F</parent_id>
+                <field_id>6B58D794-2D99-4903-A9A4-6DC94BAAD2A3</field_id>
+                <field_number>4</field_number>
+                <field_number_display>4</field_number_display>
+                <field_label>Did the participant have a PCR test during the acute illness?</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>18F80FD9-4FEB-4215-87AA-FDB956778DF1</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Did the participant have a PCR test during the acute illness?</field_label_parsed>
+              </fi_6B58D794-2D99-4903-A9A4-6DC94BAAD2A3>
+            </fields>
+          </st_E0C3931B-2065-4AD4-9BB5-9D0478F4219F>
+          <st_EC3CC753-1CA2-4FB5-8846-33260088FD8F study_phase_id="8D9D3BF2-647B-4BBF-BCD4-FF430B01C1C7" step_id="EC3CC753-1CA2-4FB5-8846-33260088FD8F" step_name="Clinical management while unwell during the acute COVID-19 episode" step_desc="" step_number="5" step_status="active" name="Clinical management while unwell during the acute COVID-19 episode" guid="EC3CC753-1CA2-4FB5-8846-33260088FD8F" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields>
+              <fi_20BFB785-8DAD-473F-9A38-01A360D7A984 form_sync_id="a77e8865bcfdd3e8f35610d32f7a631ebe5bf06b">
+                <parent_id>EC3CC753-1CA2-4FB5-8846-33260088FD8F</parent_id>
+                <field_id>20BFB785-8DAD-473F-9A38-01A360D7A984</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Highest level of care received during the acute episode?</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>C924651C-19F9-4877-A70C-72C0FDE6E8FE</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Highest level of care received during the acute episode?</field_label_parsed>
+              </fi_20BFB785-8DAD-473F-9A38-01A360D7A984>
+              <fi_D6C6056C-E58C-4E7F-9497-BF737B7446CC form_sync_id="8e19992c2bdcadf6a0f9cc9d2314b5dd75bb58e7">
+                <parent_id>EC3CC753-1CA2-4FB5-8846-33260088FD8F</parent_id>
+                <field_id>D6C6056C-E58C-4E7F-9497-BF737B7446CC</field_id>
+                <field_number>2</field_number>
+                <field_number_display>2</field_number_display>
+                <field_label>If admitted to the hospital:</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>remark</field_type>
+                <field_type_description>Remark</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>If admitted to the hospital:</field_label_parsed>
+              </fi_D6C6056C-E58C-4E7F-9497-BF737B7446CC>
+              <fi_1EBEBD2D-E3F5-4A38-9ED0-5C98382DA0FA form_sync_id="4a4320a75dcc0713cbaa25e3e7132ba57e75b0cf">
+                <parent_id>EC3CC753-1CA2-4FB5-8846-33260088FD8F</parent_id>
+                <field_id>1EBEBD2D-E3F5-4A38-9ED0-5C98382DA0FA</field_id>
+                <field_number>3</field_number>
+                <field_number_display>2</field_number_display>
+                <field_label>Date of the admission</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Date of the admission</field_label_parsed>
+              </fi_1EBEBD2D-E3F5-4A38-9ED0-5C98382DA0FA>
+              <fi_14BF87C0-CE67-4836-AE4C-6AC293C84720 form_sync_id="7cba67eb3f89c47ad95bae65ac65e97ca438a437">
+                <parent_id>EC3CC753-1CA2-4FB5-8846-33260088FD8F</parent_id>
+                <field_id>14BF87C0-CE67-4836-AE4C-6AC293C84720</field_id>
+                <field_number>4</field_number>
+                <field_number_display>3</field_number_display>
+                <field_label>Date of hospital discharge</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Date of hospital discharge</field_label_parsed>
+              </fi_14BF87C0-CE67-4836-AE4C-6AC293C84720>
+            </fields>
+          </st_EC3CC753-1CA2-4FB5-8846-33260088FD8F>
+        </steps>
+      </ph_8D9D3BF2-647B-4BBF-BCD4-FF430B01C1C7>
+      <ph_D12FF1A0-1C70-4380-BA0C-9890C1114428 name="Module2" guid="D12FF1A0-1C70-4380-BA0C-9890C1114428" duration="" order="2" rejected="0" stepCount="6" form_sync_id="fe77c82bb2a42efeec9303600c8e7f6df56b6faf">
+        <steps>
+          <st_C9DF7418-464D-48EA-80B4-308C501AB2A6 study_phase_id="D12FF1A0-1C70-4380-BA0C-9890C1114428" step_id="C9DF7418-464D-48EA-80B4-308C501AB2A6" step_name="Hospital admission after the acute illness of COVID-19" step_desc="" step_number="6" step_status="active" name="Hospital admission after the acute illness of COVID-19" guid="C9DF7418-464D-48EA-80B4-308C501AB2A6" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields>
+              <fi_7946FB9B-8886-4508-8878-DE6D5D6F5D46 form_sync_id="39af3138b92f0ac29e4385ff07c7d228240ac679">
+                <parent_id>C9DF7418-464D-48EA-80B4-308C501AB2A6</parent_id>
+                <field_id>7946FB9B-8886-4508-8878-DE6D5D6F5D46</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>This module is completed by</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>B9BF5981-0463-4C6A-A4EB-98ECBB2BED2B</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>This module is completed by</field_label_parsed>
+              </fi_7946FB9B-8886-4508-8878-DE6D5D6F5D46>
+              <fi_225476BA-42AB-4471-BCD4-018E153D91FC form_sync_id="99f9ff418185aacceb41aa4597089178cf821ed8">
+                <parent_id>C9DF7418-464D-48EA-80B4-308C501AB2A6</parent_id>
+                <field_id>225476BA-42AB-4471-BCD4-018E153D91FC</field_id>
+                <field_number>2</field_number>
+                <field_number_display>2</field_number_display>
+                <field_label>Was the participant admitted to the hospital for a possible complication of COVID-19 after the acute illness?</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>18F80FD9-4FEB-4215-87AA-FDB956778DF1</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Was the participant admitted to the hospital for a possible complication of COVID-19 after the acute illness?</field_label_parsed>
+              </fi_225476BA-42AB-4471-BCD4-018E153D91FC>
+            </fields>
+          </st_C9DF7418-464D-48EA-80B4-308C501AB2A6>
+          <st_20D8166A-DBE7-418B-97E6-D92A39222B22 study_phase_id="D12FF1A0-1C70-4380-BA0C-9890C1114428" step_id="20D8166A-DBE7-418B-97E6-D92A39222B22" step_name="Reinfection" step_desc="" step_number="7" step_status="active" name="Reinfection" guid="20D8166A-DBE7-418B-97E6-D92A39222B22" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields>
+              <fi_EAFC0B94-A929-4635-8A22-9D1AE53EED55 form_sync_id="7777d9bf38af0ab89e340d926208e18bb14d2050">
+                <parent_id>20D8166A-DBE7-418B-97E6-D92A39222B22</parent_id>
+                <field_id>EAFC0B94-A929-4635-8A22-9D1AE53EED55</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Think back over the past 7 days. How much difficulty has the participant had with the following:</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>grid</field_type>
+                <field_type_description>Grid</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>{"type":"column","rowsNumber":4,"columnsNumber":2,"rowNames":["Standing for long periods such as 30 minutes?","Taking care of your household responsibilities?","Learning a new task, e.g. learning how to get to a new place?","Joining in community activities (e.g. festivities, religious, other)?"],"columnNames":["Score: 0 No Difficulty 1 Mild Difficulty 2 Moderate Difficulty 3 Severe Difficulty 4 Extreme Difficulty or  Cannot do","Compared to before  COVID-19, are you  better/worse/same?"],"fieldTypes":["numeric","dropdown"],"optionLists":["","1662B8E3-B7A1-4428-8A34-46FC7F85486A"]}</field_summary_template>
+                <updated_by>99F49965-5392-4292-95F9-9BA9560588DB</updated_by>
+                <updated_on>2021-07-20 19:04:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups>
+                  <option_group_id>1662B8E3-B7A1-4428-8A34-46FC7F85486A</option_group_id>
+                  <option_group_name>better/woirse/same</option_group_name>
+                  <option_group_description></option_group_description>
+                  <option_group_layout>0</option_group_layout>
+                  <options>
+                    <option_id>D40BF2A5-24BB-44E9-A580-E1289552A9D7</option_id>
+                    <option_group_id>1662B8E3-B7A1-4428-8A34-46FC7F85486A</option_group_id>
+                    <option_group_order>0</option_group_order>
+                    <option_name>Better</option_name>
+                    <option_value>0</option_value>
+                  </options>
+                  <options>
+                    <option_id>5B35D5C4-1E5C-4F29-9F08-15E1DCECB1C4</option_id>
+                    <option_group_id>1662B8E3-B7A1-4428-8A34-46FC7F85486A</option_group_id>
+                    <option_group_order>1</option_group_order>
+                    <option_name>Wrose</option_name>
+                    <option_value>1</option_value>
+                  </options>
+                  <options>
+                    <option_id>12725754-A5D8-4EFF-9086-7A334EBA286A</option_id>
+                    <option_group_id>1662B8E3-B7A1-4428-8A34-46FC7F85486A</option_group_id>
+                    <option_group_order>2</option_group_order>
+                    <option_name>Same</option_name>
+                    <option_value>2</option_value>
+                  </options>
+                </option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Think back over the past 7 days. How much difficulty has the participant had with the following:</field_label_parsed>
+              </fi_EAFC0B94-A929-4635-8A22-9D1AE53EED55>
+            </fields>
+          </st_20D8166A-DBE7-418B-97E6-D92A39222B22>
+          <st_0A8D3415-4234-4E37-A72A-005C085F812B study_phase_id="D12FF1A0-1C70-4380-BA0C-9890C1114428" step_id="0A8D3415-4234-4E37-A72A-005C085F812B" step_name="Vaccination status for COVID-19" step_desc="" step_number="8" step_status="active" name="Vaccination status for COVID-19" guid="0A8D3415-4234-4E37-A72A-005C085F812B" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields/>
+          </st_0A8D3415-4234-4E37-A72A-005C085F812B>
+          <st_8A97E462-09D0-46FD-B1B7-E210FA856C01 study_phase_id="D12FF1A0-1C70-4380-BA0C-9890C1114428" step_id="8A97E462-09D0-46FD-B1B7-E210FA856C01" step_name="Occupational status" step_desc="" step_number="9" step_status="active" name="Occupational status" guid="8A97E462-09D0-46FD-B1B7-E210FA856C01" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields/>
+          </st_8A97E462-09D0-46FD-B1B7-E210FA856C01>
+          <st_AA19D09F-35DD-4AB6-B49F-89301FFD6BFA study_phase_id="D12FF1A0-1C70-4380-BA0C-9890C1114428" step_id="AA19D09F-35DD-4AB6-B49F-89301FFD6BFA" step_name="Functuning" step_desc="" step_number="10" step_status="active" name="Functuning" guid="AA19D09F-35DD-4AB6-B49F-89301FFD6BFA" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields/>
+          </st_AA19D09F-35DD-4AB6-B49F-89301FFD6BFA>
+          <st_D17999D1-B6EB-4A67-8859-76B434A0A360 study_phase_id="D12FF1A0-1C70-4380-BA0C-9890C1114428" step_id="D17999D1-B6EB-4A67-8859-76B434A0A360" step_name="Incidence of symptoms after acute illness of COVID-19" step_desc="" step_number="11" step_status="active" name="Incidence of symptoms after acute illness of COVID-19" guid="D17999D1-B6EB-4A67-8859-76B434A0A360" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields/>
+          </st_D17999D1-B6EB-4A67-8859-76B434A0A360>
+        </steps>
+      </ph_D12FF1A0-1C70-4380-BA0C-9890C1114428>
+      <ph_EF291CFB-9537-4566-9F9B-2947738D67F5 name="Module3" guid="EF291CFB-9537-4566-9F9B-2947738D67F5" duration="" order="3" rejected="0" stepCount="5" form_sync_id="fe77c82bb2a42efeec9303600c8e7f6df56b6faf">
+        <steps>
+          <st_1841EC88-4176-4AC9-9796-E4854B511367 study_phase_id="EF291CFB-9537-4566-9F9B-2947738D67F5" step_id="1841EC88-4176-4AC9-9796-E4854B511367" step_name="Neurological examination" step_desc="" step_number="12" step_status="active" name="Neurological examination" guid="1841EC88-4176-4AC9-9796-E4854B511367" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields/>
+          </st_1841EC88-4176-4AC9-9796-E4854B511367>
+          <st_B0612516-26E7-43BA-BADA-1A3A5921FAA5 study_phase_id="EF291CFB-9537-4566-9F9B-2947738D67F5" step_id="B0612516-26E7-43BA-BADA-1A3A5921FAA5" step_name="Radiographic examinations" step_desc="" step_number="13" step_status="active" name="Radiographic examinations" guid="B0612516-26E7-43BA-BADA-1A3A5921FAA5" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields/>
+          </st_B0612516-26E7-43BA-BADA-1A3A5921FAA5>
+          <st_47545B7F-74E2-4452-B1BF-11EAFCD498A5 study_phase_id="EF291CFB-9537-4566-9F9B-2947738D67F5" step_id="47545B7F-74E2-4452-B1BF-11EAFCD498A5" step_name="Blood tests" step_desc="" step_number="14" step_status="active" name="Blood tests" guid="47545B7F-74E2-4452-B1BF-11EAFCD498A5" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields/>
+          </st_47545B7F-74E2-4452-B1BF-11EAFCD498A5>
+          <st_885DC516-254C-46C8-A1EB-B7E07C3CD97D study_phase_id="EF291CFB-9537-4566-9F9B-2947738D67F5" step_id="885DC516-254C-46C8-A1EB-B7E07C3CD97D" step_name="Clinical Tests and Scales" step_desc="" step_number="15" step_status="active" name="Clinical Tests and Scales" guid="885DC516-254C-46C8-A1EB-B7E07C3CD97D" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields/>
+          </st_885DC516-254C-46C8-A1EB-B7E07C3CD97D>
+          <st_3CE698E4-EFE4-49B7-9F26-64E7004423B6 study_phase_id="EF291CFB-9537-4566-9F9B-2947738D67F5" step_id="3CE698E4-EFE4-49B7-9F26-64E7004423B6" step_name="New diagnosis of illness or complication related to COVID-19" step_desc="" step_number="16" step_status="active" name="New diagnosis of illness or complication related to COVID-19" guid="3CE698E4-EFE4-49B7-9F26-64E7004423B6" rejected="0" form_sync_id="bd370d1b6f9b3580a77083b3ed3256c621f44a99">
+            <fields/>
+          </st_3CE698E4-EFE4-49B7-9F26-64E7004423B6>
+        </steps>
+      </ph_EF291CFB-9537-4566-9F9B-2947738D67F5>
+    </phases>
+  </study>
+  <export_type>study</export_type>
+</xml>
